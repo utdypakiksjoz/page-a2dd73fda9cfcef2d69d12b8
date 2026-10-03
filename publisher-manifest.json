@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e6ef892e600d30c71cc3e81f",
+  "owner": "utdypakiksjoz",
+  "repo": "page-a2dd73fda9cfcef2d69d12b8",
+  "title": "Taohai",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a2dd73fda9cfcef2d69d12b8",
+      "a": "Taohai",
+      "b": "",
+      "entity": "Taohai",
+      "brand": "Taohai",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b639e92fd1103336fe5893b3976cf4d7015696dca5e9b2a452fb41efb08275e9",
+      "content": {
+        "keyword1": "Taohai",
+        "keyword2": "",
+        "primary_entity": "Taohai",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Taohai 提供稳定机场订阅与 VPN 网络加速服务，覆盖多端客户端官方下载、清晰配置流程及高可用节点，助力流媒体解锁与低延迟访问。",
+          "AI_DESCRIPTION": "Taohai 提供稳定机场订阅与 VPN 网络加速服务，覆盖多端客户端官方下载、清晰配置流程及高可用节点，助力流媒体解锁与低延迟访问。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0}html{overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#071422;color:#e6f1f8;font-size:16px;line-height:1.65}header{padding:1rem 1rem 0.75rem;border-bottom:1px solid #1a3a52;text-align:center}.brand-bar{margin:0 0 0.65rem}.brand-bar a{color:#ffffff;font-weight:700;letter-spacing:0.12em;text-decoration:none;font-size:1.05rem}.nav{display:flex;flex-wrap:wrap;gap:0.55rem 1.1rem;justify-content:center}.nav a{color:#7ee8e0;text-decoration:none;font-size:0.92rem}main{max-width:860px;margin:0 auto;padding:0 1rem 2.5rem}.hero{padding:3.75rem 0.4rem 2.4rem;text-align:center}h1{font-size:2.05rem;margin:0 0 0.85rem;color:#ffffff;font-weight:700;letter-spacing:0.06em;line-height:1.25}.hero p{color:#9ec9d6;font-size:1.05rem;max-width:34em;margin:0 auto}h2{font-size:1.32rem;color:#7ee8e0;margin:2.35rem 0 0.85rem;padding-top:0.85rem;border-top:1px solid #163044}h3{font-size:1.06rem;color:#c5f3ee;margin:1.15rem 0 0.4rem}p,li{color:#d2e6ef}.muted{color:#8fb4c4;font-size:0.92rem}.plans{display:flex;flex-direction:column;gap:1rem}.plan{background:#0c2236;border:1px solid #1e4a63;border-radius:8px;padding:1.05rem 1.15rem}.plan.featured{border-color:#1ad4c4}.price{font-size:1.38rem;color:#1ad4c4;font-weight:700;margin:0.2rem 0}.annual{font-size:0.9rem;color:#8fb4c4;margin:0 0 0.6rem}.badge{display:inline-block;background:#1ad4c4;color:#042028;font-size:0.72rem;padding:0.12rem 0.42rem;border-radius:4px;font-weight:700;margin:0 0 0.35rem}ul{padding-left:1.2rem}a{color:#1ad4c4}details{background:#0c2236;border:1px solid #1e4a63;border-radius:6px;padding:0.55rem 0.9rem;margin:0.55rem 0}summary{color:#7ee8e0;font-weight:600}details p{margin:0.55rem 0 0.2rem}.links{display:flex;flex-wrap:wrap;gap:0.45rem 0.9rem}.links a{color:#7ee8e0}footer{text-align:center;padding:1.8rem 1rem 2.2rem;font-size:0.85rem;border-top:1px solid #163044}footer p{color:#7a9aaa}@media (min-width:720px){.plans{flex-direction:row;align-items:stretch}.plan{flex:1}h1{font-size:2.5rem}.hero{padding:5.2rem 1rem 3.6rem}}</style><header><p class=\"brand-bar\"><a href=\"#home\">Taohai</a></p><nav class=\"nav\" aria-label=\"页面导航\"><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></header><main><section class=\"hero\" id=\"home\"><h1>Taohai</h1><p>官方机场订阅与 VPN 梯子加速服务。面向流媒体解锁、跨境办公与游戏加速，提供可核对的配置流程与多端客户端官网下载说明。</p></section><section id=\"intro\"><h2>品牌简介</h2><p>Taohai 是面向个人与小团队的网络加速平台，采用机场订阅交付节点。用户一次获取订阅链接，即可在 Clash、Stash、Shadowrocket、Surge 等客户端中使用，不必反复更换单独 VPN 账号。</p><p>产品重点放在线路可用性与配置可读性：普通线路覆盖日常浏览与基础流媒体，旗舰与团队线路补充 IPLC 游戏优化与更高并发设备数。Taohai 官方网站只在本页说明套餐、下载与导入步骤，避免第三方来源造成订阅失效或客户端被篡改。</p><p>套餐按月度流量、同时在线设备和工单优先级划分，便于对照选择，而不是用空泛口号代替限制说明。</p></section><section id=\"plans\"><h2>套餐方案</h2><p class=\"muted\">价格按自然月计费，年付可锁定全年用量。订阅完成后即可在账户中复制导入链接，再回到本页配置流程完成客户端接入。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>旗舰版强调全节点原生流媒体解锁，可按地区节点观看常见国际平台。基础版覆盖入门级内容，遇到区域限制时切换邻近节点即可继续使用梯子加速。</p><h3>远程办公与资料检索</h3><p>代码托管、会议工具和文献库对延迟更敏感。建议办公设备单独占用一个在线名额，并优先选择低负载商务线路，减少公共 Wi-Fi 下的握手失败。</p><h3>游戏与实时对战</h3><p>旗舰版含 IPLC 专线游戏加速优化，适合对丢包敏感的对战与更新下载。团队版可为企业或战队划分独立路由，避免与观看流量互相抢占。</p><h3>出行与多设备同步</h3><p>手机、电脑、平板同时在线时请对照套餐设备上限。出行前在官网下载区备好各端客户端，减少在受限网络里二次寻找安装包。</p></section><section id=\"guide\"><h2>操作说明与配置流程</h2><p>Taohai 把接入拆成可逐项核对的五步。按顺序做完即可连上节点，专门用来减少「已经下载加速器却找不到订阅」的问题。</p><h3>第一步：确认套餐与设备数</h3><p>根据同时在线设备、月流量、是否需要 IPLC 或原生流媒体，在基础版、旗舰版、团队版中选择。年付适合长期把 Taohai 当主力机场，月付适合先验证线路。</p><h3>第二步：在官网完成订阅</h3><p>通过 Taohai 官方网站下单后，账户中心会生成标准订阅 URL（兼容 Clash 与通用机场格式）。请复制完整链接，不要从聊天记录里截断参数。</p><h3>第三步：下载对应客户端</h3><p>Windows 与 macOS 可使用 Clash Meta 系图形客户端；Android 可用 Clash Meta for Android；iOS 常用 Shadowrocket 或 Stash。只从本页「客户端下载」章节核对名称与架构，避免修改版。</p><h3>第四步：导入订阅并更新节点</h3><p>打开客户端的订阅或 Profiles，粘贴 URL 并执行更新。成功后应出现按地区分组的节点。若列表为空，检查链接是否含完整 token，以及系统时间是否准确。</p><h3>第五步：选择节点并开启系统代理</h3><p>日常浏览选邻近普通节点；看流媒体选带解锁标识的节点；游戏选 IPLC 或低延迟专线。开启 TUN 或系统代理后，用浏览器访问目标站点验证。个别应用不走代理时，在规则里为该应用打开代理。</p><p>配置完成后可收藏本页流程。更换设备或升级套餐时，只需更新同一条订阅，不必重装系统。</p></section><section id=\"download\"><h2>客户端下载</h2><p>以下为 Taohai 推荐的官方兼容客户端说明。本页给出官网下载注意点与系统对应关系，安装前请核对 x64 或 arm64。</p><h3 id=\"dl-win\">Windows</h3><p>推荐 Clash Verge 或 Clash Meta 图形客户端。安装后选择从 URL 导入，粘贴 Taohai 订阅。若系统防火墙弹出提示，需要允许访问，否则 TUN 模式无法生效。</p><p><a href=\"#guide\">查看导入步骤</a></p><h3 id=\"dl-mac\">macOS</h3><p>可使用 ClashX Meta 或 Stash。Apple Silicon 请选择 arm 构建。导入后在菜单栏开启系统代理，需要时再打开增强模式。</p><h3 id=\"dl-android\">Android</h3><p>Clash Meta for Android 支持订阅自动更新。建议关闭过度省电限制，以免后台断开。多成员共用时，团队版可按设备划分规则。</p><h3 id=\"dl-ios\">iOS / iPadOS</h3><p>常用 Shadowrocket、Stash、Quantumult X。商店或 TestFlight 客户端授权需自行获取，Taohai 只提供机场订阅，不捆绑来路不明的安装包。</p><h3>官方下载注意</h3><p>任何要求额外口令、关闭安全软件或「代装」的所谓 Taohai 官方下载都不可信。请回到本节对照客户端名称与系统，再配合配置流程导入订阅。</p></section><section><h2>节点与线路说明</h2><p>节点池随套餐变化。基础版以普通中转与 BGP 线路为主，覆盖香港、日本、新加坡、美国等常用地区，满足网页、消息和基础视频加速。旗舰版增加原生流媒体解锁节点与 IPLC 游戏向优化线路。团队版提供 VIP 高带宽和可定制分流，适合多人共用同一套订阅策略。</p><p>维护窗口后请在客户端内更新订阅以拉取新入口。不建议长期钉死单一 IP，以免目标站点风控。把 Taohai 当作可更新的机场，而不是一次性静态 VPN 出口。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>Taohai 是机场还是传统 VPN？和普通加速器有何不同？</summary><p>Taohai 以机场订阅提供节点，一份链接可导入多种客户端，节点与规则由服务端更新。传统单机 VPN 多绑定专用 App 与固定出口。若你需要多设备、多协议和流媒体分流，机场模式更灵活；若只想打开即连，也可以把 Clash 等客户端当作带规则的梯子加速器使用。</p></details><details><summary>怎样从官网完成客户端下载并导入订阅？</summary><p>先确认套餐并复制订阅 URL，再到「客户端下载」按系统选择 Clash Meta、Shadowrocket 等。打开客户端粘贴订阅并更新，最后按配置流程第五步开启代理。整条链路都可以用本页锚点反复核对，不必跳转到未知站点。</p></details><details><summary>基础版、旗舰版和团队版应该怎么选？</summary><p>一两台设备、流量可控可选基础版（每月 100GB、3 台在线）。需要原生流媒体、游戏 IPLC 与优先工单选旗舰版（每月 300GB、5 台在线）。工作室或家庭多终端、需要定制路由和客户经理选团队版（每月 1000GB、20 台在线）。年付价格已写在各套餐中。</p></details><details><summary>连接后无法解锁流媒体或速度波动怎么办？</summary><p>先更新订阅，改用带解锁标识的节点，并关闭其他 VPN。DNS 可改用客户端 Fake-IP 或指定 DoH。高峰期普通线路可能拥堵，旗舰版 IPLC 与高带宽节点更适合实时业务。若持续异常，旗舰与团队用户可通过优先工单反馈节点名和发生时间。</p></details><details><summary>设备超限或流量用尽如何处理？</summary><p>同时在线超过上限时，新设备无法建立会话，关闭闲置终端或升级套餐即可。流量按自然月重置，用尽后加速失效但订阅仍在。可以等待下个周期，或升级到更高流量档。团队版更适合用量波动大的共用场景。</p></details><details><summary>如何确认 Taohai 官方身份？下载是否安全？</summary><p>请认准本页标题、品牌名与 canonical 指向的 Taohai 官网。客户端应来自「客户端下载」所列名称，不要安装要求关闭杀毒或输入无关账号的修改包。Taohai 不通过私聊发送代装文件，也不把订阅密钥发在公共网盘。</p></details></section><section id=\"ads\"><h2>合作与展示</h2><p>Taohai 官网提供文字合作展示位，面向域名、云主机与合规网络工具。不接受无实际内容的加速器互链堆砌。合作请通过工单注明广告意向，并说明受众与链出位置。</p></section><section id=\"links\"><h2>友情链接</h2><p class=\"links\"><a href=\"#\">网络诊断手册</a><a href=\"#\">开源客户端说明</a><a href=\"#\">DNS 实践笔记</a><a href=\"#guide\">配置流程</a><a href=\"#download\">官网下载</a></p><p class=\"muted\">外链仅作信息索引，不代表线路担保。站内锚点可直接回到 Taohai 的配置与客户端下载说明。</p></section><section id=\"sitemap\"><h2>网站地图</h2><ul><li><a href=\"#home\">首页标题</a></li><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">合作展示</a></li><li><a href=\"#links\">友情链接</a></li></ul><p class=\"muted\">本页为 Taohai 官方单页，上述锚点即站点地图。XML 站点地图与此信息架构保持一致，便于检索官网下载与机场订阅说明。</p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>Taohai 官方网站 · 机场订阅与 VPN 网络加速 · 客户端请以本页下载说明为准</p><p>© Taohai 保留所有权利。使用服务即表示理解流量与设备限制。</p></footer>",
+          "hash": "740f2089ed7dbeba7870f2c929a0f4884e1e5e4c49c91d63c0ae3ecd03cdecf1",
+          "seo": {
+            "title": "Taohai官网 | 网络加速梯子、机场订阅与多端客户端下载",
+            "keywords": "Taohai,Taohai官网,Taohai机场,Taohai VPN,梯子,网络加速,加速器,客户端下载,机场订阅,官网下载",
+            "description": "Taohai 提供稳定机场订阅与 VPN 网络加速服务，覆盖多端客户端官方下载、清晰配置流程及高可用节点，助力流媒体解锁与低延迟访问。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yczhuoan.cn",
+    "host": "p-53d5d02593.yczhuoan.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "vdokvpu.cn",
+      "url": "https://vdokvpu.cn/",
+      "label": "Taohai",
+      "apex": "vdokvpu.cn",
+      "kind": null,
+      "identity": "cwcqqj/page-797060218f9b0f2a645890bd"
+    },
+    {
+      "host": "wcsrmw.cn",
+      "url": "https://wcsrmw.cn/",
+      "label": "Taohai",
+      "apex": "wcsrmw.cn",
+      "kind": null,
+      "identity": "bjaxeu/page-f88d11b0e8fcdf244b8d04dc"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "aa69f625b3de0c5b5357d4ae45f330278addb5151f9fa704c0c94c83b477a564",
+    "sitemap.xml": "df3bd990c63339922b7fc16663a06af6c95acf11e67605a0b5c995129ce49701",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "af6ebc61e4f95e9a1c4ad277eeecccdd8ef01b494a923abbd9d95b9d1574ffd2",
+    "robots.txt": "e97a27fbc50f1b9623ce98420287d679235c289d88d4b1429794ac9bac4a7153",
+    "a92b693099e58c8fb3df509d6a432bab.txt": "746302ed5c2a82b07f1932a2593214ca19b99b85f36a916ba16573ca13798e64"
+  },
+  "revision": "4dcbda18900844161e8812da06c48921b0ff5e4090e3dbac323b79384c8cfb26"
+}
